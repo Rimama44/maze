@@ -6,7 +6,7 @@ This is a Python project 💻
 ## Build 🛠
 
 I use Colorama to color my terminal
-Install Colorama:
+#Install Colorama:
 
 ```bash
 $ pip install colorama
