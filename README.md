@@ -5,8 +5,7 @@ This is a Python project 💻
 
 ## Build 🛠
 
-I use Colorama to color my terminal
-#Install Colorama:
+Install Colorama to color terminal 🎨 
 
 ```bash
 $ pip install colorama
