@@ -63,7 +63,7 @@ def solver(maze, start):
 
 # MAIN ALGORITHM
 
-mazemap = [line.strip() for line in open("maps/rect_05.map", 'r')]
+mazemap = [line.strip() for line in open("maps/rect_04.map", 'r')]
 maze = [list(i) for i in mazemap]
 
 start = getStartIndex(maze)
